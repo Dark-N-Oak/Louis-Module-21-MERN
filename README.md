@@ -1,6 +1,6 @@
 # Louis-Module-21-MERN
 ## Description
-
+I've been tasked with adding and fixing code to this google book searcher. I've made sure add and linked the code together.
 I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button when I load the search engine.
 I am presented with an input field to search for books and a submit button when I click on the Search for Books menu option.
 I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site when I am not logged in and enter a search term in the input field and click the submit button.
@@ -15,10 +15,15 @@ That book’s information is saved to my account when I click on the Save button
 I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site and a button to remove a book from my account when I click on the option to see my saved books.
 That book is deleted from my saved books list when I click on the Remove button on a book.
 I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button when I click on the Logout button.
+Lastly, I made sure to leave the code better than I found it.
 
 ## What's Included
  * Client Folder containing dist folder and other files ect.
  * Server Folder containing routes folder and server.js
+ * READ.ME File
+
 ## Screenshot
 ![Screenshot 2024-08-27 210806](https://github.com/user-attachments/assets/0c02af31-1aaf-450f-bc94-9e7cccc9ec42)
+
 ## Deployed Website
+https://louis-module-21-mern-1.onrender.com/
